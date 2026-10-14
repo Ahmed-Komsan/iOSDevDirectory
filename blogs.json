@@ -5005,6 +5005,14 @@
             "x_url": "https://x.com/hirodusk"
           },
           {
+            "title": "APPLORE Blog",
+            "author": "APPLORE",
+            "site_url": "https://applore.app/blog",
+            "feed_url": "https://applore.app/blog/rss.xml",
+            "x_url": "https://x.com/viggozw",
+            "github_url": "https://github.com/ViggoZ"
+          },
+          {
             "title": "Bjango Articles",
             "author": "Marc Edwards",
             "site_url": "https://bjango.com/",
